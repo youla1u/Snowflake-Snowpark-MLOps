@@ -336,27 +336,3 @@ FROM CAMPAIGN_REVENUE_PREDICTIONS;
 ```
 
 ---
-
-# Architecture finale
-
-```text
-CAMPAIGN_SPEND
-      |
-      v
-Feature Engineering Snowpark
-      |
-      v
-MARKETING_BUDGETS_FEATURES
-      |
-      v
-Entraînement ML
-      |
-      v
-revenue_model.joblib
-      |
-      v
-Prédictions
-      |
-      v
-CAMPAIGN_REVENUE_PREDICTIONS
-```
