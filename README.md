@@ -1,4 +1,4 @@
-# TP complet — Snowflake + Snowpark + Machine Learning
+# Snowflake, Snowpark et Machine Learning
 
 ## Objectif
 
