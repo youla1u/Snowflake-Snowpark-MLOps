@@ -1,1 +1,1 @@
-# Snowflake-Snowpark-Machine-Learning
+# Snowflake & Snowpark & Machine_Learning
