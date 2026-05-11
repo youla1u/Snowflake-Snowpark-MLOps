@@ -6,10 +6,10 @@ Créer un mini pipeline MLOps avec Snowflake :
 
 ```text
 Données marketing
-→ Feature engineering avec Snowpark
-→ Entraînement d’un modèle ML
-→ Prédiction de revenus
-→ Sauvegarde des résultats dans Snowflake
+- Feature engineering avec Snowpark
+- Entraînement d’un modèle ML
+- Prédiction de revenus
+- Sauvegarde des résultats dans Snowflake
 ```
 
 ---
